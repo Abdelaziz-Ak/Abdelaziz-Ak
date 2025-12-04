@@ -46,7 +46,7 @@ Still early in the journey, learning step by step, and working on turning theory
   <a href="mailto:abdelaziz.ak@outlook.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdelaziz-ak/">
+  <a href="https://www.linkedin.com/in/abdelaziz-ak-5575b31ba/">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40"/>
   </a>
   <a href="https://github.com/Abdelaziz-Ak">
