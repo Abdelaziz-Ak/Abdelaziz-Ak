@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=700&color=B31F00&center=true&vCenter=true&width=600&lines=Abdelaziz-Ak+in+Ops;Learning+the+Hard+Way;Building+from+First+Principles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=700&color=B31F00&center=true&vCenter=true&width=600&lines=Abdelaziz+Ak" />
 </p>
 
 <p align="center">
@@ -8,6 +8,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=DevOps+Trainee" />
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Pv-_HJKj0pLA8GOPSavISoQANDSU9RV5/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/My%20Resume-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
+  </a>
 </p>
 
 ---
@@ -57,5 +63,17 @@ Still early in the journey, learning step by step, and working on turning theory
 ---
 
 <p align="center">
-  <i>Still learning. Still breaking things. Still improving.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=600&lines=Still+learning" alt="Motivational Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=600&lines=Still+breaking+things" alt="Motivational Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=600&lines=Still+improving" alt="Motivational Typing Animation"/>
+</p>
+
+<p align="center">
+  <i>. . .</i>
 </p>
