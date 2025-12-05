@@ -19,13 +19,16 @@
 ---
 
 ### 🧭 About Me
-I’m a DevOps trainee focused on building solid fundamentals in Linux, automation, cloud basics, containerization, and Kubernetes.  
-Currently developing hands-on projects to strengthen practical understanding and improve my workflow.  
-Still early in the journey, learning step by step, and working on turning theory into real technical skill.
+I’m a DevOps trainee focused on building solid fundamentals in Linux, automation, cloud basics, containerization, and Kubernetes.   
+
+Currently developing hands-on projects to strengthen practical understanding and improve my workflow.    
+
+Still early in the journey, learning step by step, and working on turning theory into real technical skill.  
+
 ---
 
 ### 🛠️ Stack & Tools
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,githubactions,docker,kubernetes,aws,python&perline=8" />
 </p>
 
@@ -48,7 +51,7 @@ Still early in the journey, learning step by step, and working on turning theory
 ---
 
 ### 🌐 Find Me
-<p>
+<p align="center">
   <a href="mailto:abdelaziz.ak@outlook.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40"/>
   </a>
