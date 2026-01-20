@@ -29,23 +29,24 @@ Still early in the journey, learning step by step, and working on turning theory
 
 ### 🛠️ Stack & Tools
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,githubactions,docker,kubernetes,aws,python,ansible,terraform&perline=8" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,githubactions,docker,kubernetes,aws,python,ansible,terraform,jenkins&perline=8" />
 </p>
 
 ---
 
 ### 📂 Current Projects
-- **Linux Automation Toolkit** – Bash scripts for monitoring, logs, and file operations  
+- **Linux Automation Toolkit** – Bash scripts for monitoring, logs, file operations and DevOps automated tasks (work in progress)
 - **Docker Practices** – Building and automating container images  
-- **Kubernetes Home Lab** – Multi-node cluster, manifests, deployments, and service mapping  
-- **Python Automation Toolkit** – Small utilities and scripts (work in progress)
+- **K8S AWS Cluster "cluster from scratch"** – Multi-node cluster, AWS services (EC2, S3, DynamoDB, VPC, Subnets, IAM), Terraform (for provisioning), Ansible (for management)
+- **K8S App Deployment** - Deploying a simple App on my "K8S AWS Cluster": Creating a Docker image and building it, Manifests, Deployments, Service mapping, Ingress
+- **Python Automation Toolkit** – Small utilities and scripts for DevOps automated tasks (work in progress)
 
 ---
 
 ### 📌 What I'm Focusing On
 - Sharpening automation and scripting  
 - Understanding system behavior, not just tool usage  
-- Learning cloud architecture through hands-on small labs  
+- Learning cloud architecture through hands-on small labs or practices 
 - Writing better documentation and cleaner repos  
 
 ---
