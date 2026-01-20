@@ -29,7 +29,7 @@ Still early in the journey, learning step by step, and working on turning theory
 
 ### 🛠️ Stack & Tools
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,githubactions,docker,kubernetes,aws,python&perline=8" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,githubactions,docker,kubernetes,aws,python,ansible,terraform&perline=8" />
 </p>
 
 ---
