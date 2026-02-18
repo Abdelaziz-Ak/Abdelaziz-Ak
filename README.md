@@ -35,7 +35,7 @@ Still early in the journey, learning step by step, and working on turning theory
 ---
 
 ### 📂 Current Projects
-- **Gig Router Platform:** A production-grade microservices environment on AWS EKS with Terraform IaC, Jenkins CI/CD, and ArgoCD GitOps.
+- **Gig Router Web App:** A production-grade microservices environment on AWS EKS with Terraform IaC modular architecture, Jenkins CI/CD, and ArgoCD GitOps.
 
 ---
 
