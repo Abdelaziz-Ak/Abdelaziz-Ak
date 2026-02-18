@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Pv-_HJKj0pLA8GOPSavISoQANDSU9RV5/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1gijlox7pZDuQ8zSUtm2lEA-YZ-ZAc9gP/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20Resume-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 </p>
@@ -35,11 +35,7 @@ Still early in the journey, learning step by step, and working on turning theory
 ---
 
 ### 📂 Current Projects
-- **Linux Automation Toolkit** – Bash scripts for monitoring, logs, file operations and DevOps automated tasks (work in progress)
-- **Docker Practices** – Building and automating container images  
-- **K8S AWS Cluster "cluster from scratch"** – Multi-node cluster, AWS services (EC2, S3, DynamoDB, VPC, Subnets, IAM), Terraform (for provisioning), Ansible (for management)
-- **K8S App Deployment** - Deploying a simple App on my "K8S AWS Cluster": Creating a Docker image and building it, Manifests, Deployments, Service mapping, Ingress
-- **Python Automation Toolkit** – Small utilities and scripts for DevOps automated tasks (work in progress)
+- **Gig Router Platform:** A production-grade microservices environment on AWS EKS with Terraform IaC, Jenkins CI/CD, and ArgoCD GitOps.
 
 ---
 
